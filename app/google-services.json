@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342148162625",
+    "firebase_url": "https://utsamubti7a1711500136tio-b2d6f.firebaseio.com",
+    "project_id": "utsamubti7a1711500136tio-b2d6f",
+    "storage_bucket": "utsamubti7a1711500136tio-b2d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342148162625:android:1531dc03e7c99ee36112c0",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.uts_amub_ti7a_1711500136_tio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342148162625-kc5lct04ini4akl42huvu8faqlj46pus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.id.atmaluhur.uts_amub_ti7a_1711500136_tio",
+            "certificate_hash": "03ea76bc01ff7cd2f35c7f4c5f0c448eeba7baae"
+          }
+        },
+        {
+          "client_id": "342148162625-ufhrqvp7d83p4g8315t69rhdul48h76i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_df8Dfc6hbHnwOj0bqHhNnbXIJrfVOAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342148162625-ufhrqvp7d83p4g8315t69rhdul48h76i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
